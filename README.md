@@ -3,9 +3,10 @@
 This is a collection of lab exercises for CSCI 115: Computer Simulation and Modeling, taken during the second semester of SY 2022-2023. 
 
 * Python Crash Course
-  * NumPy Introduction
-  * Pandas Introduction 
-  * Matplotlib Introduction
+  * NumPy Introduction and Exercise
+  * Pandas Introduction, Exercise 1, and Exercise 2
+  * Matplotlib Introduction and Exercise
+  * Bonus Python Exercise
 * Sample Lecture Exercise: Unconstrained Growth
 * Exercise: Unconstrained Decay
 * Sample Python Code: The Susceptible-Infectious-Recovered (SIR) Model
