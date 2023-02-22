@@ -2,6 +2,8 @@
 
 This is a collection of lab exercises for CSCI 115: Computer Simulation and Modeling, taken during the second semester of SY 2022-2023. 
 
+Jupyter notebooks were ran using the Python kernel.
+
 * Python Crash Course
   * NumPy Introduction and Exercise
   * Pandas Introduction, Exercise 1, and Exercise 2
