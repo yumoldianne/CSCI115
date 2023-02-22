@@ -14,5 +14,5 @@ Jupyter notebooks were ran using the Python kernel through Anaconda.
 * Sample Python Code: The Susceptible-Infectious-Recovered (SIR) Model
 * Pre-Lab Activity: SIR Models
 * Lab Activity 1: System Dynamics with Interaction
-* Sample Lecture Exercise: Matrices and Markov Chains
+* Sample Lecture Exercise: Matrices and Markov Chains in Python
 * Exercise: Markov Chain Simulation
