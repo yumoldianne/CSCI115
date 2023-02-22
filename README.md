@@ -11,7 +11,7 @@ Jupyter notebooks were ran using the Python kernel through Anaconda.
   * Bonus Python Exercise
 * Sample Lecture Exercise: Unconstrained Growth
 * Exercise: Unconstrained Decay
-* Sample Python Code: The Susceptible-Infectious-Recovered (SIR) Model
+* Sample Problem: The Susceptible-Infectious-Recovered (SIR) Model in Python
 * Pre-Lab Activity: SIR Models
 * Lab Activity 1: System Dynamics with Interaction
 * Sample Lecture Exercise: Matrices and Markov Chains in Python
